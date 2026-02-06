@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+Lib/
+Scripts/
+share/
+etc/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (optional)
+credit_risk_dataset.csv
+
+# OS files
+.DS_Store
+Thumbs.db
